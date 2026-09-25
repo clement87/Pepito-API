@@ -65,6 +65,7 @@ Go to [examples](./examples) to see some basic client examples.
 * Threads - https://www.threads.net/@pepito.thecat
 * Telegram - Bot name [@Pepito_IO_Bot](https://t.me/Pepito_IO_Bot) - https://github.com/sensifier/PEPITO
 * Is-Pepito-out frontend - [https://is-pepito-out.vercel.app/](https://is-pepito-out.vercel.app)
+* Client library for Rust, JS/TS and PHP - https://github.com/wielorzeczownik/pepito-client ([crates.io](https://crates.io/crates/pepito-client), [npm](https://www.npmjs.com/package/@wielorzeczownik/pepito-client), [Packagist](https://packagist.org/packages/wielorzeczownik/pepito-client))
 
 ## Usage Policy
 
